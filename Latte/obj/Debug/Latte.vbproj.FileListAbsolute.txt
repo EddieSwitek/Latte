@@ -1,0 +1,12 @@
+C:\Users\Eddie\source\repos\Latte\Latte\bin\Debug\Latte.exe.config
+C:\Users\Eddie\source\repos\Latte\Latte\bin\Debug\Latte.exe
+C:\Users\Eddie\source\repos\Latte\Latte\bin\Debug\Latte.pdb
+C:\Users\Eddie\source\repos\Latte\Latte\bin\Debug\Latte.xml
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.vbprojAssemblyReference.cache
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.frmLatteSelection.resources
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.Resources.resources
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.vbproj.GenerateResource.cache
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.vbproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.exe
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.xml
+C:\Users\Eddie\source\repos\Latte\Latte\obj\Debug\Latte.pdb
